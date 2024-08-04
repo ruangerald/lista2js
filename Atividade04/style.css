@@ -1,0 +1,25 @@
+body{
+    font-family: "Comfortaa", sans-serif;
+    text-align: center;
+    font-size: 1rem;
+    background-color: rgb(126, 126, 216);
+}
+nav{
+    text-align: left;
+}
+.navbar{
+    height: 1.5rem;
+    width: 7rem;
+    font-family: "Comfortaa", sans-serif;
+    font-size: 1rem;
+}
+button{
+    height: 2rem;
+    width: 11rem;
+    font-family: "Comfortaa", sans-serif;
+    font-size: 1rem;
+    background-color: rgb(80, 80, 252);
+}
+input{
+    background-color: rgb(80, 80, 252);
+}
